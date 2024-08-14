@@ -1,0 +1,268 @@
+
+.head{
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height: 40px;
+    gap: 35px;
+    justify-content: center;
+   
+    
+   
+}
+#pmvdo{
+    width: 102px;
+    padding-top: 10px;
+    background: transparent;
+    padding-left: 16px;
+
+}
+*{
+    margin: 0;
+    
+}
+.set2{
+    display: flex;
+    color: #aaa;
+    background-color: black;
+    gap: 33px;
+    justify-content:space-around;
+    font-size: 18px;
+    padding-top: 12px;
+    padding-left: 15px;
+    font-family: amazon Ember, Amazon Arabic Ember, Arial, sans-serif !important;
+    font-weight: 550;
+    letter-spacing: .02em;
+}
+.set3{
+    display: flex;
+    color: #aaa;
+    gap: 33px;
+    justify-content: space-around;
+    padding-top:12px ;
+    font-size: 18px;
+    padding-left:15px ;
+    font-family: amazon Ember, Amazon Arabic Ember, Arial, sans-serif !important;
+    font-weight: 550;
+    letter-spacing: .02em;
+    align-items: center;
+    padding-bottom: 5px;
+
+    
+}
+.icon2 img{
+ 
+   
+   height: 30px;
+   width: 30px;
+  align-items: center;
+  cursor: pointer;
+   
+
+}
+.loginpage{
+    height: 550px;
+    width: 100%;
+    background-image: linear-gradient(to right,#000 40%,transparent 58%),url(MLP.jpg);
+    background-position: right top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+#welcome{
+    color: #fff;
+    margin-left: 4%;
+    margin-top: 3%;
+    
+    font-weight: 550;
+    font-family: Asap;
+    font-size: 38px;
+}
+.para{
+    color: #fff;
+    margin-left: 4%;
+    margin-top: 2%;
+    font-size: 1.3rem;
+    font-family: amazon Ember, Amazon Arabic Ember, Arial, sans-serif !important;
+    font-weight: 100;
+    line-height: 1.6em;
+    
+}
+.button{
+    color: #fff !important;
+    background:#0f70a0 !important ;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    display: inline-block;
+    margin-top: 47px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 279px;
+    height: 49px;
+    border-radius: 5px;
+    margin-left: 42px;
+
+    
+}
+.rentpage{
+    height: 550px;
+    width: 100%;
+    background-image: linear-gradient(to right,#000 40%,transparent 58%),url(TVOD_MLP_Right.jpg);
+    background-position: right top ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #000;
+    display: flex;
+    flex-direction: column;
+}
+#rental
+{
+    color: #fff;
+    margin-left: 38px;
+    margin-top: 3%;
+    
+    font-weight: 400px;
+    font-family: Asap;
+    font-size: 38.5px;
+  
+}
+.line{
+    color: #fff;
+    margin-left: 38px;
+    margin-top: 2%;
+    font-size: 20.2px;
+    font-family: sans-serif;
+    font-weight: 100;
+    line-height: 1.6em;
+}
+.channelpage{
+    width: 100%;
+    height: 5558x;
+    background-color: #fff;
+    color: #000;
+    
+}
+.dis{
+    margin-left: 30px;
+    font-family:  Ember, Amazon Arabic Ember, Arial, sans-serif !important;
+    color: #000;
+    font-size: 24px;
+    
+    font-weight: 500px;
+
+
+}
+.container{
+    
+   
+   margin: 12px 50px 8px 50px;
+   height: 93vh;
+   display: flex;
+   flex-direction: row;
+
+}
+.inbox2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.inner{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.row{
+    display: flex;
+   
+    
+}
+.item{
+    display: flex;
+    margin-left: 5px;
+
+   
+}
+.items{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 3px;
+    
+
+}
+.imgsize{
+    width: 175px;
+    height: 132px;
+
+}
+
+
+.incont{
+    display: flex;
+    height: 100%;
+    width: 558px;
+    
+    
+}
+.channels{
+    
+    height: 100%;
+    width: 558px;
+     display: flex;
+
+    
+}
+
+
+#title{
+    color: #000;
+    letter-spacing: .1px;
+    font-family: B612;
+    font-size: 45px;
+    
+    padding-left: 25px;
+    padding-top: 18px;
+    
+
+}
+
+
+.footer{
+    width: 100%;
+    height: 170px;
+    background-color: #222222;
+    color: #8197a4;
+    
+    
+   
+}
+.ftrimg{
+   padding-left: 45%;
+   padding-top: 25px ;
+}
+.all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 4px 0 14px;
+    padding: 0;
+    color: #79b8f3;
+    font-size: 15px;
+    line-height: 19px;
+}
+.next{
+    margin: 0 10px;
+    list-style: none;
+    
+}
+.lastline{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
